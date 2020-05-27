@@ -1,3 +1,4 @@
 [submodule "src/libbpf"]
 	path = libbpf
-	url = https://github.com/libbpf/libbpf.git
+	url = https://github.com/danobi/libbpf.git
+        branch = load_vmlinux_btf
